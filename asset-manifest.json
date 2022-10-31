@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0204bb05.css",
+    "main.js": "/static/js/main.9a8bebfa.js",
+    "static/media/woman-wellness-center-during-skin-treatment 1.png": "/static/media/woman-wellness-center-during-skin-treatment 1.a182b57121529fbb38d0.png",
+    "static/media/chooseplan.png": "/static/media/chooseplan.136ca6ed637068b0cb0c.png",
+    "static/media/Maskgroup.png": "/static/media/Maskgroup.f12280a507ad9a23dd34.png",
+    "static/media/doctor.png": "/static/media/doctor.1d4307b527c925e954db.png",
+    "static/media/Maskgroup1.png": "/static/media/Maskgroup1.3750ee7647e77aea9ec2.png",
+    "static/media/clinic.png": "/static/media/clinic.a42fea09656d3afb18d9.png",
+    "static/media/Maskgroup3.png": "/static/media/Maskgroup3.966e31f3802b48035a97.png",
+    "static/media/Maskgroup2.png": "/static/media/Maskgroup2.0c5f9ac14666ab0598f6.png",
+    "static/media/Raleway-VariableFont_wght.ttf": "/static/media/Raleway-VariableFont_wght.3fefe681f4c62116679b.ttf",
+    "static/media/Mulish-VariableFont_wght.ttf": "/static/media/Mulish-VariableFont_wght.bcafeb0fadf20710b1c6.ttf",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.0204bb05.css",
+    "static/js/main.9a8bebfa.js"
+  ]
+}
