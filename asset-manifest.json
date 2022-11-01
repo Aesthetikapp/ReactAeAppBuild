@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0204bb05.css",
-    "main.js": "/static/js/main.9a8bebfa.js",
+    "main.js": "/static/js/main.1ba8af98.js",
     "static/media/woman-wellness-center-during-skin-treatment 1.png": "/static/media/woman-wellness-center-during-skin-treatment 1.a182b57121529fbb38d0.png",
     "static/media/chooseplan.png": "/static/media/chooseplan.136ca6ed637068b0cb0c.png",
     "static/media/Maskgroup.png": "/static/media/Maskgroup.f12280a507ad9a23dd34.png",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.0204bb05.css",
-    "static/js/main.9a8bebfa.js"
+    "static/js/main.1ba8af98.js"
   ]
 }
